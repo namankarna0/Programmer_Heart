@@ -40,7 +40,8 @@ The project does not require any external Python packages.
 ```text
 programmer-heart/
 │
-├── main.py
+├── next.py
+├── break.py
 ├── README.md
 └── .gitignore
 ```
